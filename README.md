@@ -83,11 +83,9 @@ For each dataset:
 
 ## Repository Structure
 
-- `heart_failure_analysis.py`: Analysis script for Heart Failure dataset
-- `stroke_prediction.py`: Analysis script for Stroke Prediction dataset
-- `breast_cancer_analysis.py`: Analysis script for Breast Cancer Wisconsin dataset
-- `data/`: Directory containing the datasets
-- `results/`: Directory containing output visualizations and detailed results
+- `heart_failure_dataset.ipynb`: Analysis notebook for Heart Failure dataset
+- `stroke_dataset.ipynb`: Analysis notebook for Stroke Prediction dataset
+- `breast_cancer_dataset.ipynb`: Analysis notebbok for Breast Cancer Wisconsin dataset
 - `README.md`: This file, providing an overview of the project
 
 ## Dependencies
